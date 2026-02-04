@@ -1,0 +1,6 @@
+pyttsx3
+speechrecognition
+psutil
+scikit-learn
+pyaudio
+opencv-python
